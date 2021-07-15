@@ -1,0 +1,16 @@
+Programmirovanie
+2
+Cto takoe massiv?
+3
+1
+Posledovatelnost elementov odnogo tipa
+Posledovatelnost elementov lubix tipov
+Svazanniy spisok
+Skolko vesit int?
+5
+3
+1 byte
+2 bytes
+4 bytes
+8 bytes
+16 bytes
